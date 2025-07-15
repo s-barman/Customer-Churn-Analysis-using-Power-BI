@@ -1,4 +1,20 @@
 # Customer-Churn-Analysis-Dashboard
+## Objective of the Power BI Dashboard – Customer Churn Analysis (Banking Sector)
+The objective of this Power BI dashboard is to analyze and monitor customer churn patterns in the banking sector by leveraging historical data to identify trends, key indicators, and risk factors associated with customer attrition. The dashboard aims to:
+
+Provide a visual overview of churned vs. retained customers.
+
+Segment churn data by demographics, geography, account types, and tenure.
+
+Highlight key churn drivers such as customer satisfaction, product usage, and service interaction.
+
+Enable the bank to predict high-risk customers and take proactive retention measures.
+
+Support data-driven decision-making for customer relationship strategies and marketing initiatives.
+
+Track the impact of retention campaigns over time through performance metrics.
+
+
 ## Technology used:
 Power BI
 
