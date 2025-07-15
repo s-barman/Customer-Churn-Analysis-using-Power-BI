@@ -1,7 +1,9 @@
 # Customer-Churn-Analysis-Dashboard
 ## Technology used:
 Power BI
+
 DAX
+
 SQL
 ## Important KPIs 
 •	Total Customer
@@ -123,7 +125,7 @@ Highest monthly churn appears to occur sporadically (e.g., May 2017: 26.71%, Jan
 •	Geographic Patterns: While Germany, France, and Spain show similar patterns, Spain stands out with the highest percentage of poor credit score churners.
 
 ## Demos/Screenshot, How the Dashboard looks like
-!()
+!(https://github.com/s-barman/Customer-Churn-Analysis-using-Power-BI/blob/main/Customer_Churn_Image.jpg)
 
 
 
